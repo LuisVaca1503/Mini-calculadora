@@ -28,4 +28,4 @@ He aqui una muestra:
 ![Calculadora_formulas](https://user-images.githubusercontent.com/73821820/99104322-e1eee880-25ae-11eb-9597-be98c60ed3ac.png)
 
 
-Interesante verdad ? :astonished:
+Interesante, verdad ? :astonished:
