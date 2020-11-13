@@ -23,4 +23,6 @@ Que te diviertas :D
  
 He aqui una muestra: 
 
+![Calculadora_principal](https://user-images.githubusercontent.com/73821820/99105058-d9e37880-25af-11eb-966e-88b5d707ce62.png)
+
 ![Calculadora_formulas](https://user-images.githubusercontent.com/73821820/99104322-e1eee880-25ae-11eb-9597-be98c60ed3ac.png)
